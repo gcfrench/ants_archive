@@ -1,0 +1,60 @@
+---
+knit: "bookdown::render_book"
+title: Notes on British ants
+author: Graham French
+date: '`r Sys.Date()`'
+output: 
+  bookdown::tufte_handout2:
+    includes:
+      in_header: format.tex
+    toc: true
+    toc_depth: 1
+    highlight: tango
+fontsize: 10pt
+---
+\pagebreak
+
+```{r markdown, echo = FALSE, purl = FALSE, warning = FALSE}
+library(knitr)
+library(bookdown)
+library(tufte)
+opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, comment = NA)
+```
+
+# **Ponera coarcta** (Latreille, 1802)
+
+```{marginfigure}
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Ponera_coarctata//Ponera_coarctata_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//Ponera_coarctata//Ponera_coarctata_side.jpg")
+```
+```{block, type="attribution"}
+Photos by April Nobile / From www.antweb.org. Accessed 17 September 2016.
+```
+
+## Identification
+Member of subfamily *Ponerinae* with **single thick waisted segment**, **constriction between first and second gaster segments** and **well developed sting**. Head with **minute eyes**. Pupae enclosed in cocoons.
+
+Unlike *Hypoponera punctatissima* **coarsely punctured** with **backward pointing projection on underside of petiole**. Male **winged** with **13 antennal segments** and **spine on pygidium**. ^[last gaster segment]
+
+## Nest
+Very small tunnels through soil, beneath stones with few workers and a single queen. Nest in hot sites which do not dry out, clay on chalk downs, open stony ground, grassland, crumbling cliffs and open woodland, waste ground, scrub and large urban gardens.
+
+## Workers 
+Sluggish, mainly subterranean predators on developmental stages of underground invertebrates. Found in or close to other ant nests, often with *Myrmecina graminicola*. Collected using mince meat baits and sieving moss.
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Ponera_coarctata//Ponera_coarctata_map.png")
+```
+`r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
+`r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Alates
+Mating flights in August and September.
+
+\pagebreak

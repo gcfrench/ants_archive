@@ -1,0 +1,28 @@
+\usepackage{lscape}
+
+% Set page margins
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ top=25mm,
+ bottom=10mm
+ }
+
+% landscape layout
+\newcommand{\blandscape}{\begin{landscape}}
+\newcommand{\elandscape}{\end{landscape}}
+
+% attribution text format
+\newcommand{\attribution}{\footnotesize}
+
+% Paragraph indentation and separation for normal text
+\makeatletter
+\renewcommand{\@tufte@reset@par}{%
+  \setlength{\RaggedRightParindent}{0pt}%
+  \setlength{\JustifyingParindent}{0pt}%
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{6pt}%
+}
+\@tufte@reset@par
+\makeatother

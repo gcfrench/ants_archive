@@ -1,0 +1,41 @@
+# **Hypoponera punctatissima** (Roger, 1859)
+
+```{marginfigure}
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatissima_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatissima_queen.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatissima_side.jpg")
+```
+```{block, type="attribution"}
+Photos by April Nobile (worker) and Erin Prado (queen) / From www.antweb.org. Accessed 17 September 2016.
+```
+
+## Identification
+Introduced member of subfamily *Ponerinae*  often imported with plant material. Has **single thick waisted segment**, **constriction between first and second gaster segments** and **well developed sting**. Head with **minute eyes**. Pupae enclosed in cocoons.
+
+Unlike *Ponera coarcta* **finely punctured** with **no projection on underside of petiole**. Male dimorphic with small and large individuals, **unwinged** with **12 antennal segments** and **no spine on pygidium** ^[last gaster segment]. Queen has **larger eyes** that are near the base of the mandibles.
+
+## Nest
+In heated buildings, fermenting rubbish dumps and sawdust heaps with numerous workers.
+
+## Workers 
+Predator on small invertebrates.
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatissima_map.png")
+```
+`r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
+`r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Alates
+Mating flights in August and September consisting of numerous queens.
+
+\pagebreak

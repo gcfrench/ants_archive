@@ -1,0 +1,7 @@
+rmd_files: [
+  "ponera_coarctata.Rmd", 
+  "hypoponera_punctatissima.Rmd",
+  "myrmecina_graminicola.Rmd",
+  "formicoxenus_nitidulus.Rmd",
+  "anergates_atratulus.Rmd",
+]
