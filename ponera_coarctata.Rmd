@@ -11,6 +11,7 @@ output:
     toc_depth: 1
     highlight: tango
 fontsize: 10pt
+documentclass: book
 ---
 \pagebreak
 
@@ -18,7 +19,7 @@ fontsize: 10pt
 library(knitr)
 library(bookdown)
 library(tufte)
-opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, comment = NA)
+opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, comment = NA, cache = TRUE)
 ```
 
 # **Ponera coarcta** (Latreille, 1802)
