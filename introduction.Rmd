@@ -13,7 +13,7 @@ output:
 fontsize: 10pt
 bibliography: references.bib
 nocite: | 
-  @R-base
+  @Donisthorpe, @Pontin, @Skinner-1987, @Skinner-1996, @Czechowski, @Macdonald
 documentclass: book
 ---
 \pagebreak
