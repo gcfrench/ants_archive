@@ -1,0 +1,30 @@
+---
+knit: "bookdown::render_book"
+title: Notes on British ants
+author: Graham French
+date: '`r Sys.Date()`'
+output: 
+  bookdown::tufte_handout2:
+    includes:
+      in_header: format.tex
+    toc: true
+    toc_depth: 1
+    highlight: tango
+fontsize: 10pt
+bibliography: references.bib
+nocite: | 
+  @R-base
+documentclass: book
+---
+\pagebreak
+
+```{r markdown, echo = FALSE, purl = FALSE, warning = FALSE}
+library(knitr)
+library(bookdown)
+library(tufte)
+opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, comment = NA, cache = TRUE)
+```
+
+# **Introduction** {-}
+
+\pagebreak

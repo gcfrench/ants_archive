@@ -37,3 +37,5 @@ knitr::include_graphics("images//Anergates_atratulus//Anergates_atratulus_map.pn
 
 ## Alates
 Mating occurs within the host nest with many mated queens flying out from  May to August in search of new host nests. Either adopt an old queenless colony of *Tetramorium caespitum* or host queen killed or starved.
+
+\pagebreak
