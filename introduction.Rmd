@@ -13,7 +13,8 @@ output:
 fontsize: 10pt
 bibliography: references.bib
 nocite: | 
-  @Donisthorpe, @Pontin, @Skinner-1987, @Skinner-1996, @Czechowski, @Macdonald
+  @Antweb, @AntWiki, @BWARS, @BWARSdata, @Czechowski, @Donisthorpe,  @Macdonald, @Pontin, 
+  @Skinner-1987, @Skinner-1996
 documentclass: book
 ---
 \pagebreak
@@ -26,5 +27,9 @@ opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, commen
 ```
 
 # **Introduction** {-}
+
+\begin{fullwidth}
+
+\end{fullwidth}
 
 \pagebreak
