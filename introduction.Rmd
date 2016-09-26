@@ -17,6 +17,7 @@ nocite: |
   @Antweb, @AntWiki, @BWARS, @BWARSdata, @Czechowski, @Donisthorpe,  @Macdonald, @Pontin, 
   @Skinner-1987, @Skinner-1996,
   @R-base, @R-bookdown, @R-knitr, @R-markdown, @R-tufte
+site: bookdown::bookdown_site
 documentclass: book
 ---
 \pagebreak
@@ -25,7 +26,7 @@ documentclass: book
 library(knitr)
 library(bookdown)
 library(tufte)
-opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, comment = NA, cache = FALSE)
+opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, comment = NA, cache = TRUE)
 # write_bib(c("knitr", "bookdown", "markdown", "tufte"))
 ```
 

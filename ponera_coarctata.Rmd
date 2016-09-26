@@ -12,6 +12,7 @@ knitr::include_graphics("images//Ponera_coarctata//Ponera_coarctata_side.jpg")
 ```
 ```{block, type="attribution"}
 Photos by April Nobile / From www.antweb.org. Accessed 17 September 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
 ## Identification

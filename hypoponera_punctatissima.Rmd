@@ -16,6 +16,7 @@ knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatiss
 ```
 ```{block, type="attribution"}
 Photos by April Nobile (worker) and Erin Prado (queen) / From www.antweb.org. Accessed 17 September 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
 ## Identification

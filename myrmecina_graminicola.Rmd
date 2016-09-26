@@ -12,6 +12,7 @@ knitr::include_graphics("images//Myrmecina_graminicola//Myrmecina_graminicola_si
 ```
 ```{block, type="attribution"}
 Photos by Michael Branstetter / From www.antweb.org. Accessed 19 September 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
 ## Identification
