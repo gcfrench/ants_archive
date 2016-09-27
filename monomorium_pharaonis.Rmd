@@ -7,11 +7,15 @@
 knitr::include_graphics("images//Monomorium_pharaonis//Monomorium_pharaonis_head.jpg")
 ```
 
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Monomorium_pharaonis//Monomorium_pharaonis_queen.jpg")
+```
+
 ```{r eval=TRUE, echo=FALSE, purl=FALSE}
 knitr::include_graphics("images//Monomorium_pharaonis//Monomorium_pharaonis_side.jpg")
 ```
 ```{block, type="attribution"}
-Photos by April Nobile / From www.antweb.org. Accessed 26 September 2016.
+Photos (worker and queen) by April Nobile / From www.antweb.org. Accessed 26 September 2016.
 Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
@@ -21,7 +25,7 @@ Introduced member of subfamily *Myrmicinae* with **two segments to waist** and *
 Dull matt head, mesosoma ^[thorax] and petiole with shiny gaster. **Propodeum rounded with no teeth**.
 
 ## Nest
-In foundations, walls and under floors of heated buildings, for example hospitals, with large colonies consisting of multiple connecting nests ^[polydomous] containing many queens and several million workers.
+In foundations, walls and under floors of heated buildings, for example hospitals, with large colonies consisting of multiple connecting nests  containing many queens and several million workers.
 
 ## Workers
 Scavenger on food material, dead animals and insects, forming long foraging trails.
