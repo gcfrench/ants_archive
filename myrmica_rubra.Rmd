@@ -1,0 +1,44 @@
+# **Myrmica rubra** (Linnaeus, 1758)
+
+```{marginfigure}
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Myrmica_rubra//Myrmica_rubra_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Myrmica_rubra//Myrmica_rubra_top.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//Myrmica_rubra//Myrmica_rubra_side.jpg")
+```
+
+```{block, type="attribution"}
+Photos by April Nobile / From www.antweb.org. Accessed 28 September 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
+```
+
+
+## Identification
+Member of *Myrmicinae* with **two segments to waist** and **sting present**. Pupae naked.
+
+Like *Myrmica ruginodis* and *Myrmica sulcinodis* **antennal scape curved with ball and socket joint on same axis** but propodeal **spines are short** with **smooth base** and **petiole upper surface curved into hind face**. Queens are either large or small. ^[macrogynous or microgynous]
+
+## Nest
+In soil, rotting tree stumps and under stones of damp, open non-flooding sites such as meadows and river banks, open urban, agricultural areas, woodland edges, parks and gardens. Multiple queens in same nest with hundreds of workers. New nests may be formed by colony fission. 
+
+## Workers
+Agressive general scavenger and predator on invertebrates, aphid honeydew and flower nectar, often seen foraging on tall herbs and taken in sweep nets.
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Myrmica_rubra//Myrmica_rubra_map.png")
+```
+`r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
+`r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Alates
+Mating swarms in August and September.
+
+\pagebreak

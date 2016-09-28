@@ -7,5 +7,8 @@ rmd_files: [
   "anergates_atratulus.Rmd",
   "monomorium_pharaonis.Rmd",
   "solenopsis_fugax.Rmd",
+  "myrmica_rubra.Rmd",
+  "myrmica_ruginodis.Rmd",
+  "myrmica_sulcinodis.Rmd",
   "references.Rmd",
 ]
