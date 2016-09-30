@@ -22,16 +22,16 @@ Member of *Myrmicinae* with **two segments to waist** and **sting present**. Pup
 Upper surface of head and thorax smooth and shining with black gaster. **Projection on underside of post-petiole**. Male similar to workers, **wingless** with **longer curved antennae**. Unlike workers queen with **12 antennal segments** and **ocelli**
 
 ## Nest
-Inquiline species ^[one or more nests in *Formica rufa*, *F. lugubris* and *F. aquilonia* mounds] with nests of single queen and up to one hundred workers in sticks, tough bark or dead bracken stems. 
-
-## Workers
-Individuals may obtain food from *Formica* workers and can be seen on surface of *Formica* nests in warm, dull, humid days.
+Inquiline species ^[one or more nests in *Formica rufa*, *F. lugubris* and *F. aquilonia* mounds] with nests of single queen and up to one hundred workers in sticks, tough bark or dead bracken stems.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Formicoxenus_nitidulus//Formicoxenus_nitidulus_map.png")
 ```
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Workers
+Individuals may obtain food from *Formica* workers and can be seen on surface of *Formica* nests in warm, dull, humid days.
 
 ## Alates
 Mating occurs on surface of *Formica* nests between July to August, with males found on the surface between August to October, especially early in the morning. Intermediate reproduction forms between the queen and worker can occur.

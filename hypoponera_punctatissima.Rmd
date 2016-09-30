@@ -27,14 +27,14 @@ Unlike *Ponera coarcta* **finely punctured** with **no projection on underside o
 ## Nest
 In heated buildings, fermenting rubbish dumps and sawdust heaps with numerous workers.
 
-## Workers 
-Predator on small invertebrates.
-
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatissima_map.png")
 ```
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Workers 
+Predator on small invertebrates.
 
 ## Alates
 Mating flights in August and September consisting of numerous queens.

@@ -26,7 +26,7 @@ documentclass: book
 library(knitr)
 library(bookdown)
 library(tufte)
-opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, comment = NA, cache = TRUE)
+opts_chunk$set(echo = TRUE, eval = FALSE, warning = FALSE, error = FALSE, comment = NA, cache = FALSE)
 # write_bib(c("knitr", "bookdown", "markdown", "tufte"))
 ```
 

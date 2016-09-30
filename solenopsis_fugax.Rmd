@@ -29,14 +29,14 @@ Workers with **small eyes**, **ten segments to antennae** and **two segmented ap
 ## Nest
 Under deeply buried stones and rock clefts in coastal cliff where falls provide bare habitats, with colonies, consisting of numerous workers and multiple queens, often associated with *Lasius flavus* and *Formica* species. Nests formed from single queens or by nest budding.
 
-## Workers
-Subterranean aggressive ant raiding broods of larger ants, eating their larvae and pupae, as well as tending aphids.
-
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Solenopsis_fugax//Solenopsis_fugax_map.png")
 ```
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Workers
+Subterranean aggressive ant raiding broods of larger ants, eating their larvae and pupae, as well as tending aphids.
 
 ## Alates
 Mating flights in September and October.

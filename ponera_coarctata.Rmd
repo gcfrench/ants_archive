@@ -23,14 +23,14 @@ Unlike *Hypoponera punctatissima* **coarsely punctured** with **backward pointin
 ## Nest
 Very small tunnels through soil, beneath stones with few workers and a single queen. Nest in hot sites which do not dry out, clay on chalk downs, open stony ground, grassland, crumbling cliffs and open woodland, waste ground, scrub and large urban gardens.
 
-## Workers 
-Sluggish, mainly subterranean predators on developmental stages of underground invertebrates. Found in or close to other ant nests, often with *Myrmecina graminicola*. Collected using mince meat baits and sieving moss.
-
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Ponera_coarctata//Ponera_coarctata_map.png")
 ```
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Workers 
+Sluggish, mainly subterranean predators on developmental stages of underground invertebrates. Found in or close to other ant nests, often with *Myrmecina graminicola*. Collected using mince meat baits and sieving moss.
 
 ## Alates
 Mating flights in August and September.
