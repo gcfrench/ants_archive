@@ -10,5 +10,9 @@ rmd_files: [
   "myrmica_rubra.Rmd",
   "myrmica_ruginodis.Rmd",
   "myrmica_sulcinodis.Rmd",
+  "myrmica_scabrinodis.Rmd",
+  "myrmica_sabuleti.Rmd",
+  "myrmica_specioides.Rmd",
+  "myrmica_vandeli.Rmd",
   "references.Rmd",
 ]
