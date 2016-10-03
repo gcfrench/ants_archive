@@ -36,5 +36,3 @@ knitr::include_graphics("images//Myrmica_specioides//Myrmica_specioides_map.png"
 ## Alates
 
 \pagebreak
-
-Photo by April Nobile / From www.antweb.org. Accessed 3 October 2016
