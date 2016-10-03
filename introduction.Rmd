@@ -12,7 +12,7 @@ output:
     highlight: tango
 fontsize: 10pt
 bibliography: ["ants.bib", "r.bib"]
-csl: biological-reviews.csl
+csl: biological-reviews-modified.csl
 nocite: | 
   @Antweb, @AntWiki, @BWARS, @BWARSdata, @Czechowski, @Donisthorpe,  @Macdonald, @Pontin, 
   @Skinner-1987, @Skinner-1996,
