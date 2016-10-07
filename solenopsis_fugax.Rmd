@@ -21,13 +21,15 @@ Photos (worker and queen) by April Nobile / From www.antweb.org. Accessed 27 Sep
 Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
-## Identification
-Member of *Myrmicinae* with **two segments to waist** and **sting present**. Pupae naked.
+## Worker
+Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
-Workers with **small eyes**, **ten segments to antennae** and **two segmented apical club**. **Propodeum rounded with no spines**. Queens and males larger, with queens having **eleven antennal segments** and males **twelve antennal segments**.
+**Small eyes** with **ten segments to antennae** and **two segmented apical club**. **Propodeum rounded with no spines**.
+
+Subterranean aggressive ant raiding broods of larger ants, eating their larvae and pupae, as well as tending aphids.
 
 ## Nest
-Under deeply buried stones and rock clefts in coastal cliff where falls provide bare habitats, with colonies, consisting of numerous workers and multiple queens, often associated with *Lasius flavus* and *Formica* species. Nests formed from single queens or by nest budding.
+Under deeply buried stones and rock clefts in coastal cliff where falls provide bare habitats, with colonies, consisting of numerous workers and multiple queens, often associated with *Lasius flavus* and *Formica* species. Nests formed from single queens or by nest budding. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Solenopsis_fugax//Solenopsis_fugax_map.png")
@@ -35,10 +37,7 @@ knitr::include_graphics("images//Solenopsis_fugax//Solenopsis_fugax_map.png")
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
-## Workers
-Subterranean aggressive ant raiding broods of larger ants, eating their larvae and pupae, as well as tending aphids.
-
 ## Alates
-Mating flights in September and October.
+Mating flights in September and October. Queens and males larger than workers, with queens having **eleven antennal segments** and males **twelve antennal segments**.
 
 \pagebreak

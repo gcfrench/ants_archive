@@ -19,21 +19,20 @@ Photos (worker and queen) by April Nobile / From www.antweb.org. Accessed 26 Sep
 Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
-## Identification
-Introduced member of subfamily *Myrmicinae* with **two segments to waist** and **sting present**. Pupae naked. 
+## Worker
+Introduced member of subfamily *Myrmicinae* with **two segments to waist** and **sting present**.
 
-Dull matt head, mesosoma ^[thorax] and petiole with shiny gaster. **Propodeum rounded with no spines*.
+Dull matt head, mesosoma ^[thorax] and petiole with shiny gaster. **Propodeum rounded with no spines**.
+
+Scavenger on food material, dead animals and insects, forming long foraging trails.
 
 ## Nest
-In foundations, walls and under floors of heated buildings, for example hospitals, with large colonies consisting of multiple connecting nests  containing many queens and several million workers.
+In foundations, walls and under floors of heated buildings, for example hospitals, with large colonies consisting of multiple connecting nests containing many queens and several million workers. Pupae naked. 
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Monomorium_pharaonis//Monomorium_pharaonis_map.png")
 ```
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
-
-## Workers
-Scavenger on food material, dead animals and insects, forming long foraging trails.
 
 \pagebreak
