@@ -20,18 +20,17 @@ Photos by Shannon Hartman (worker) and Zach Lieberman (male) / From www.antweb.o
 Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
-## Identification
-Member of *Myrmicinae* with **two segments to waist** and **sting present**. Pupae naked.
+## Worker
+Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
 ## Nest
+Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Myrmica_vandeli//Myrmica_vandeli_map.png")
 ```
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
-
-## Workers
 
 ## Alates
 
