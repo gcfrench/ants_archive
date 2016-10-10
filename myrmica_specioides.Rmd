@@ -37,6 +37,6 @@ knitr::include_graphics("images//Myrmica_specioides//Myrmica_specioides_map.png"
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights occur late July to early September. Unlike *Myrmica sabuleti* males have **short antennal scapes**.
+Mating flights occur late July to early September. Unlike *Myrmica sabuleti* and *Myrmica vandeli* males have **short antennal scapes** and unlike *Myrmica scabrinodis* with **short erect hairs to scape and legs**.
 
 \pagebreak
