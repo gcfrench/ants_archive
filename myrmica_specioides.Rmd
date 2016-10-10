@@ -23,8 +23,12 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+Like *Myrmica sabuleti* **antennal scape angled with ball and socket joint on different axis** with **scape process slightly rotated**. **Upper surface of petiole curved into hind face** and **postpetiole almost spherical**.
+
+Aggressive stinging ant predating on workers and brood of *Lasius flavus*.
+
 ## Nest
-Pupae naked.
+Hot and dry coastal sand and gravel banks with simple entrance hole. Colonies have one to several queens with ten to few hundred workers. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Myrmica_specioides//Myrmica_specioides_map.png")
@@ -33,5 +37,6 @@ knitr::include_graphics("images//Myrmica_specioides//Myrmica_specioides_map.png"
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
+Mating flights occur late July to early September. Unlike *Myrmica sabuleti* males have **short antennal scapes**.
 
 \pagebreak

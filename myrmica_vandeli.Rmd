@@ -23,8 +23,11 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+Like *Myrmica scabrinodis* **antennal scape angled with ball and socket joint on different axis** with **scape process rotated about 45 degrees**
+though more hairy than this species. **Anterior border of clypeus with shallow concavity**.
+
 ## Nest
-Pupae naked.
+Warm moist habitats in moss, grass and sedge tussocks of wet meadows, marshes and bogs, often with ten to hundreds of workers coexisting with *Myrmica scabrinodis*. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Myrmica_vandeli//Myrmica_vandeli_map.png")
@@ -33,5 +36,6 @@ knitr::include_graphics("images//Myrmica_vandeli//Myrmica_vandeli_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
+Unlike *Myrmica scabrinodis* males have **long antennal scapes**.
 
 \pagebreak
