@@ -10,6 +10,7 @@ output:
     toc: true
     toc_depth: 1
     highlight: tango
+    keep_tex: true
 fontsize: 10pt
 bibliography: ["ants.bib", "r.bib"]
 csl: biological-reviews-modified.csl
