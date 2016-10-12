@@ -13,6 +13,7 @@ rmd_files: [
   "myrmica_scabrinodis.Rmd",
   "myrmica_vandeli.Rmd",
   "myrmica_sabuleti.Rmd",
+  "myrmica_lonae.Rmd",
   "myrmica_specioides.Rmd",
   "myrmica_lobicornis.Rmd",
   "myrmica_schencki.Rmd",
