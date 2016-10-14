@@ -15,8 +15,6 @@ fontsize: 10pt
 bibliography: ["ants.bib", "r.bib"]
 csl: biological-reviews-modified.csl
 nocite: | 
-  @Antweb, @AntWiki, @BWARS, @BWARSdata, @Czechowski, @Donisthorpe,  @Macdonald, @Pontin, 
-  @Skinner-1987, @Skinner-1996,
   @R-base, @R-bookdown, @R-knitr, @R-markdown, @R-tufte
 site: bookdown::bookdown_site
 documentclass: book
@@ -37,8 +35,9 @@ write_bib(c("knitr", "bookdown", "markdown", "tufte"))
 
 # **Introduction** {-}
 
-\begin{fullwidth}
+These notes on the British species of ants were made whilst reading a number of books [@Donisthorpe; @Czechowski; @Pontin; @Skinner-1987; @Skinner-1996], pdf files [@Macdonald] and online resources [@Antweb; @AntWiki; @BWARS].
 
-\end{fullwidth}
+The distribution maps were created from records collated by the Bees, Wasps and Ants Recording Society and made publically available through the NBN Gateway in March 2014 [@BWARSdata; @NBNGateway].
 
 \pagebreak
+
