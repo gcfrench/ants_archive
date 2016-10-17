@@ -35,9 +35,11 @@ write_bib(c("knitr", "bookdown", "markdown", "tufte"))
 
 # **Introduction** {-}
 
-These notes on the British species of ants were made whilst reading a number of books [@Donisthorpe; @Czechowski; @Pontin; @Skinner-1987; @Skinner-1996; @Collins-2016], pdf files [@Macdonald] and online resources [@Antweb; @AntWiki; @BWARS].
+These notes on the British species of ants were made whilst reading a number of books [@Donisthorpe; @Czechowski; @Pontin; @Skinner-1987; @Skinner-1996; @Collins-2016], pdf files [@Macdonald] and online resources [@AntWiki; @BWARS].
 
 The distribution maps were created from records collated by the Bees, Wasps and Ants Recording Society and made publically available through the NBN Gateway in March 2014 [@BWARSdata; @NBNGateway].
+
+The images of the ants were taken from AntWeb [@Antweb] under Creative Commons Attribution Licence [@CC-BY-3] and annotated to highlight important characters for species identification.
 
 \pagebreak
 
