@@ -39,7 +39,16 @@ These notes on the British species of ants were made whilst reading a number of 
 
 The distribution maps were created from records collated by the Bees, Wasps and Ants Recording Society and made publically available through the NBN Gateway in March 2014 [@BWARSdata; @NBNGateway].
 
-The images of the ants were taken from AntWeb [@Antweb] under Creative Commons Attribution Licence [@CC-BY-3] and annotated to highlight important characters for species identification.
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics(c("images//markers//marker_solid_filled.png",
+                          "images//markers//marker_dashed_filled.png",
+                          "images//markers//marker_solid_hollow.png",
+                          "images//markers//marker_dashed_hollow.png"
+                          ))
+```
+`r margin_note("Annotated markers, species character shown by filled circle and genus or sub-family character by empty circle. Visible character indicated by solid line and hidden character by dashed line.")`
+
+The images of the ants were taken from AntWeb [@Antweb] under Creative Commons Attribution Licence [@CC-BY-3] and annotated to highlight important characters for identification.
 
 \pagebreak
 

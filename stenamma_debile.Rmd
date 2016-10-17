@@ -1,0 +1,33 @@
+# **Stenamma debile** (Förster 1850)
+
+```{marginfigure}
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Stenamma_debile//Stenamma_debile_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//Stenamma_debile//Stenamma_debile_side.jpg")
+```
+```{block, type="attribution"}
+Photo by Erin Prado / From www.antweb.org. Accessed 17 October 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
+```
+
+## Worker
+Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+
+## Nest
+Pupae naked.
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Stenamma_debile//Stenamma_debile_map.png")
+```
+`r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
+`r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Alates
+
+
+\pagebreak

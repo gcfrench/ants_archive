@@ -19,5 +19,7 @@ rmd_files: [
   "myrmica_hirsuta.Rmd",
   "myrmica_lobicornis.Rmd",
   "myrmica_schencki.Rmd",
+  "stenamma_debile.Rmd",
+  "stenamma_westwoodii.Rmd",
   "references.Rmd",
 ]
