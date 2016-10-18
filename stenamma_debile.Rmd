@@ -18,8 +18,12 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+Like *Stenamma westwoodii* small and slender ant, slow moving with small eyes, **elongate petiole**, **small propodeal spines** and **two ridges along middle portion of clypeus** but width of central smooth **area of frons more than one third distance between antennal bases** and **legs shorter and stouter**.
+
+Often seen singularly scavenging small invertebrates in leaf litter.
+
 ## Nest
-Pupae naked.
+Small nests, with one queen and around ten workers, under large deeply embedded stones, inside hollow flints, other buried cavities in total shade of old woodland and hedgerows. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Stenamma_debile//Stenamma_debile_map.png")
@@ -28,6 +32,6 @@ knitr::include_graphics("images//Stenamma_debile//Stenamma_debile_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-
+Mating flights in September to October.
 
 \pagebreak
