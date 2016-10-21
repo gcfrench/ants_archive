@@ -7,6 +7,10 @@
 knitr::include_graphics("images//Stenamma_debile//Stenamma_debile_head.jpg")
 ```
 
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Stenamma_debile//Stenamma_debile_male_head.jpg")
+```
+
 ```{r eval=TRUE, echo=FALSE, purl=FALSE}
 knitr::include_graphics("images//Stenamma_debile//Stenamma_debile_side.jpg")
 ```

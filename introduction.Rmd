@@ -12,7 +12,7 @@ output:
     highlight: tango
     keep_tex: true
 fontsize: 10pt
-bibliography: ["ants.bib", "r.bib"]
+bibliography: ["ants.bib", "r.bib", "nbn.bib"]
 csl: biological-reviews-modified.csl
 nocite: | 
   @R-base, @R-bookdown, @R-knitr, @R-markdown, @R-tufte
@@ -37,7 +37,7 @@ write_bib(c("knitr", "bookdown", "markdown", "tufte"))
 
 These notes on the British species of ants were made whilst reading a number of books [@Donisthorpe; @Czechowski; @Pontin; @Skinner-1987; @Skinner-1996; @Collins-2016], pdf files [@Macdonald], journal articles [@stenamma-1993] and online resources [@AntWiki; @BWARS].
 
-The distribution maps were created from records collated by the Bees, Wasps and Ants Recording Society and made publically available through the NBN Gateway in March 2014 [@BWARSdata; @NBNGateway].
+The distribution maps were created from records collated by the Bees, Wasps and Ants Recording Society and made publically available through the NBN Gateway in March 2014 [@BWARSdata; @NBNGateway]. The map images were generated using the Atlas Grade Maps facility [@NBNAtlas], under the NBN Gateway terms and conditions [@NBNTC].
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics(c("images//markers//marker_solid_filled.png",
