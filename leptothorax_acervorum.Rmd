@@ -1,0 +1,20 @@
+# **Leptothorax acervorum** (Fabricius, 1793)
+
+```{marginfigure}
+```
+
+## Worker
+Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+
+## Nest
+Pupae naked.
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//leptothorax_acervorum//leptothorax_acervorum_map.png")
+```
+`r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
+`r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+## Alates
+
+\pagebreak

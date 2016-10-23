@@ -21,5 +21,10 @@ rmd_files: [
   "myrmica_schencki.Rmd",
   "stenamma_debile.Rmd",
   "stenamma_westwoodii.Rmd",
+  "leptothorax_acervorum.Rmd",
+  "temnothorax_nylanderi.Rmd",
+  "temnothorax_albipennis.Rmd",
+  "temnothorax_interruptus.Rmd",
+  "temnothorax_unifasciatus.Rmd",
   "references.Rmd",
 ]
