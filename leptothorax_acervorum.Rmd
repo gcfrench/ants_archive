@@ -3,11 +3,32 @@
 ```{marginfigure}
 ```
 
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Leptothorax_acervorum//Leptothorax_acervorum_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Leptothorax_acervorum//Leptothorax_acervorum_male_side.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//Leptothorax_acervorum//Leptothorax_acervorum_side.jpg")
+```
+
+```{block, type="attribution"}
+Photos by April Nobile (worker) and Ryan Perry (male) / From www.antweb.org. Accessed 31 October 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
+```
+
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+Unlike *Temnothorax* species **eleven antennal segments**, with darkened three-segmented clubs. **Long erect hairs on antennal scape and tibiae**, and darker head and abdomen.
+
+Small non-aggressive ant that does not produce scent to avoid detection by other ant species, using pair-running to forage for food, taking scraps of food, dead corpses and nest rubbish from *Formica aquilonia*, *Formica lugubris* and *Formica exsecta* colonies, licking honeydew from leaves and eating small arthropods.
+
 ## Nest
-Pupae naked.
+Small nests under bark usually in dead wood, open pine woods with dead sticks on the ground, sometimes in stone walls or peaty topsoil of heaths, with one queen and less than twenty workers, though occasionally much larger nests with many queens. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//leptothorax_acervorum//leptothorax_acervorum_map.png")
@@ -16,5 +37,6 @@ knitr::include_graphics("images//leptothorax_acervorum//leptothorax_acervorum_ma
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
+Mating flights in July. Unlike *Temnothorax* species male with **twelve antennal segments**.
 
 \pagebreak
