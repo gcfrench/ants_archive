@@ -24,7 +24,7 @@ rmd_files: [
   "leptothorax_acervorum.Rmd",
   "temnothorax_nylanderi.Rmd",
   "temnothorax_albipennis.Rmd",
-  "temnothorax_interruptus.Rmd",
   "temnothorax_unifasciatus.Rmd",
+  "temnothorax_interruptus.Rmd",
   "references.Rmd",
 ]

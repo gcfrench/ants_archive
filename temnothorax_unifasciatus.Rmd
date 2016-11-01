@@ -20,7 +20,15 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+Unlike *Leptothorax acervorum*, **antennae with twelve segments** and **adpressed, slanting long hairs on scape** as well as tibiae. Unlike *Temnothorax nylanderi*, in addition to **antennal clubs darkened**, *Temnothorax interruptus*, in addition to **short propodeal spines** and *Temnothorax albipennis* gaster has clearly-defined, continuous **dark band across the first gastral tergite**.
+
 ## Nest
+In the Channel Islands among rocks and under stones in warm, dry open areas, as well as in dead tree branches, under bark and in hollow plant stems.
+
+
+
+
+
 Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
@@ -30,5 +38,6 @@ knitr::include_graphics("images//temnothorax_unifasciatus//temnothorax_unifascia
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
+Unlike *Leptothorax acervorum* male with **thirteen antennal segments**.
 
 \pagebreak

@@ -3,7 +3,6 @@
 ```{marginfigure}
 ```
 
-
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Temnothorax_nylanderi//Temnothorax_nylanderi_head.jpg")
 ```
@@ -20,8 +19,12 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+Unlike *Leptothorax acervorum*, smaller and paler, **antennae with twelve segments** and **adpressed, slanting long hairs on scape** as well as tibiae. Unlike *Temnothorax albipennis* and *Temnothorax interruptus* **antennal clubs not darkened** and **mesopropodeal furrow** present. Gaster with dark band.
+
+Small aggressive ant that does not produce scent to avoid detection by other ant species, using pair-running to forage for food along cracks in bark.
+
 ## Nest
-Pupae naked.
+Favours shaded, sheltered positions, usually in dead wood with one queen and tens of workers, under bark of old oak tree trunks in parkland, along with *Lasius brunneus*, as well as other cavities such as nutshells. Occasionally several queens in larger nest with over a hundred workers. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//temnothorax_nylanderi//temnothorax_nylanderi_map.png")
@@ -30,5 +33,6 @@ knitr::include_graphics("images//temnothorax_nylanderi//temnothorax_nylanderi_ma
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
+Mating flights in warm evenings in August. Reproductive forms intermediate between queens and workers can occur. Unlike *Leptothorax acervorum* male with **thirteen antennal segments**.
 
 \pagebreak

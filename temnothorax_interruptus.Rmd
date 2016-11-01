@@ -16,12 +16,15 @@ Photos by April Nobile / From www.antweb.org. Accessed 31 October 2016.
 Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
-
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+Unlike *Leptothorax acervorum*, **antennae with twelve segments** and **adpressed, slanting long hairs on scape** as well as tibiae. Unlike *Temnothorax nylanderi* **antennal clubs darkened** and **mesopropodeal furrow absent**. Unlike *Temnothorax albipennis* and *Temnothorax unifasciatus* propodeal **spines are long and curved**. Gaster with dark band interrupted in middle on first tergite.
+
+Scavenges singularly on small invertebrates.
+
 ## Nest
-Pupae naked.
+In peaty topsoil and dead plant bases, in warm dry areas with sparse low growing vegetation on dry heathland. Single small entrance hole leading down several centimetres to a nest chamber containing a single queen and up to 100 workers. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//temnothorax_interruptus//temnothorax_interruptus_map.png")
@@ -30,5 +33,6 @@ knitr::include_graphics("images//temnothorax_interruptus//temnothorax_interruptu
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
+Mating flight in July to August. Unlike *Leptothorax acervorum* male with **thirteen antennal segments**.
 
 \pagebreak
