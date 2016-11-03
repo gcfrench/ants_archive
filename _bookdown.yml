@@ -26,5 +26,6 @@ rmd_files: [
   "temnothorax_albipennis.Rmd",
   "temnothorax_unifasciatus.Rmd",
   "temnothorax_interruptus.Rmd",
+  "tetramorium_caespitum.Rmd",
   "references.Rmd",
 ]
