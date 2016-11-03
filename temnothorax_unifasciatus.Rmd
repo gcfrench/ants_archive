@@ -20,13 +20,10 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
-Unlike *Leptothorax acervorum*, **antennae with twelve segments** and **adpressed, slanting long hairs on scape** as well as tibiae. Unlike *Temnothorax nylanderi*, in addition to **antennal clubs darkened**, *Temnothorax interruptus*, in addition to **short propodeal spines** and *Temnothorax albipennis* gaster has clearly-defined, continuous **dark band across the first gastral tergite**.
+Unlike *Leptothorax acervorum*, **antennae with twelve segments** and **adpressed, slanting long hairs on scape** as well as tibiae. Unlike *Temnothorax nylanderi*, in addition to **antennal clubs darkened**, *Temnothorax interruptus*, in addition to **short propodeal spines** and *Temnothorax albipennis* gaster has clearly-defined, continuous **dark band across the gaster**.
 
 ## Nest
 In the Channel Islands, among rocks and under stones in warm, dry open areas, as well as in dead tree branches, under bark and in hollow plant stems. Single queen with up to 200 or more workers. In Europe may interbreed with *Temnothorax albipennis* producing hybrid colonies. Pupae naked.
-
-
-Each nest has a single queen, and typically contains 200 or more workers. While the queen is present the production of males by workers is minimal (Heinze, Puchinger & Hölldobler 1997). Where T. unifasciatus and T. albipennis occur together in Europe they interbreed, and there is some evidence that the resulting hybrid colonies are able to reproduce (Douwes & Stille 1991). However, laboratory crosses between these species have produced only a few small, short-lived workers, and no sexuals (Plateaux 1984). As yet, there are no records of T. unifasciatus and T. albipennis occurring together in the Channel Islands (Orledge, Smith & David 2000).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//temnothorax_unifasciatus//temnothorax_unifasciatus_map.png")
