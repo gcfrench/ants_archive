@@ -1,0 +1,31 @@
+# **Strongylognathus testaceus** (Schenck, 1852)
+
+```{marginfigure}
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Strongylognathus_testaceus//Strongylognathus_testaceus_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//Strongylognathus_testaceus//Strongylognathus_testaceus_side.jpg")
+```
+
+```{block, type="attribution"}
+Photos by Erin Prado / From www.antweb.org. Accessed 4 November 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
+```
+
+## Alates
+Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+
+## Nest
+Pupae naked.
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Strongylognathus_testaceus//Strongylognathus_testaceus_map.png")
+```
+`r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
+`r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
+
+\pagebreak
