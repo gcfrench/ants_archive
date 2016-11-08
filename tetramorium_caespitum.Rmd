@@ -3,7 +3,6 @@
 ```{marginfigure}
 ```
 
-
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Tetramorium_caespitum//Tetramorium_caespitum_head.jpg")
 ```
@@ -25,10 +24,14 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+Aggressive, stinging ant with **clypeus margin raised into a transverse ridge**, **angled corners to prothorax** and **short propodeal spines**.
+
+Stores grass, heather and birch seeds which are feed to the brood and tends subterranean aphid *Paracletus cimiciformis*. Forages for prey and honeydew with recruitment occurring along defined scent trails.
 
 ## Nest
+Large colonies with normally one queen and thousands of workers under stones in coastal sand, close cropped grassland with surface stones, crumbling rocky cliff tops and inland dry heaths in hot sites. Requiring heathland management to maintain bare ground, often found along with other thermophilous species such as *Lasius alienus*. 
 
-Pupae naked.
+Unlike parasite *Anergates atratulus*, larvae white with hairs on head. Also parasitised by *Strongylognathus testaceous*. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Tetramorium_caespitum//Tetramorium_caespitum_map.png")
@@ -37,5 +40,6 @@ knitr::include_graphics("images//Tetramorium_caespitum//Tetramorium_caespitum_ma
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
+Mating flight in late June to early August. Alates larger than workers.
 
 \pagebreak

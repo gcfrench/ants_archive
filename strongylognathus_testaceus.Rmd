@@ -16,11 +16,13 @@ Photos by Erin Prado / From www.antweb.org. Accessed 4 November 2016.
 Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
-## Alates
+## Worker
 Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 
+**Mandibles long and slender, curved and toothless**.
+
 ## Nest
-Pupae naked.
+Parasitic on *Tetramorium caespitum* with tens of workers and queens present, greatly outnumbered by host workers. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Strongylognathus_testaceus//Strongylognathus_testaceus_map.png")
