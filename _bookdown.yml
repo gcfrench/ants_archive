@@ -1,5 +1,6 @@
 rmd_files: [
   "introduction.Rmd",
+  "glossary.Rmd",
   "ponera_coarctata.Rmd", 
   "hypoponera_punctatissima.Rmd",
   "myrmecina_graminicola.Rmd",

@@ -1,0 +1,20 @@
+# **Glossary** {-}
+
+```{marginfigure}
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//glossary//glossary_side.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//glossary//glossary_head.jpg")
+```
+
+```{block, type="attribution"}
+Images by Steve Shattuck, Canberra, Australia / From http://www.antwiki.org/. Accessed 09 November 2016.
+Licensing: Creative Commons Attribution-Share Alike license.
+```
+
+\pagebreak
+

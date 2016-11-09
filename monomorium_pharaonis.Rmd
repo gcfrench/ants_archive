@@ -4,6 +4,10 @@
 ```
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//labels//tramp.png")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Monomorium_pharaonis//Monomorium_pharaonis_head.jpg")
 ```
 
