@@ -1,9 +1,6 @@
 # **Glossary** {-}
 
-```{marginfigure}
-```
-
-```{r eval=TRUE, echo=FALSE, purl=FALSE}
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig-nocap-fullwidth, fig.fullwidth = TRUE}
 knitr::include_graphics("images//glossary//glossary_side.jpg")
 ```
 
@@ -11,10 +8,11 @@ knitr::include_graphics("images//glossary//glossary_side.jpg")
 knitr::include_graphics("images//glossary//glossary_head.jpg")
 ```
 
+\begin{fullwidth}
 ```{block, type="attribution"}
-Images by Steve Shattuck, Canberra, Australia / From http://www.antwiki.org/. Accessed 09 November 2016.
-Licensing: Creative Commons Attribution-Share Alike license.
+Drawings by Steve Shattuck, Australian National Insect Collection, Canberra, Australia / From http://www.antwiki.org/wiki/Morphological_Terms. Accessed 09 November 2016. Licensing: Creative Commons Attribution-Share Alike Licence.
 ```
+\end{fullwidth}
 
 \pagebreak
 

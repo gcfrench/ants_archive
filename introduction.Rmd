@@ -39,6 +39,8 @@ These notes on the British species of ants were made whilst reading a number of 
 
 The distribution maps were created from records collated by the Bees, Wasps and Ants Recording Society and made publically available through the NBN Gateway in March 2014 [@BWARSdata; @NBNGateway]. The map images were generated using the Atlas Grade Maps facility [@NBNAtlas], under the NBN Gateway terms and conditions [@NBNTC].
 
+The line drawings of the side and head of an ant where drawn by Steve Shattuck at Australian National Insect Collection, Canberra, Australia and accessed online through the Morphology, Anatomy and Terminology section of the AntWiki website [@AntWiki].
+
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics(c("images//markers//marker_solid_filled.png",
                           "images//markers//marker_dashed_filled.png",
