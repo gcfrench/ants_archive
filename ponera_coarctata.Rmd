@@ -32,6 +32,6 @@ knitr::include_graphics("images//Ponera_coarctata//Ponera_coarctata_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in August and September. Male **winged** with **13 antennal segments** and **spine on pygidium**. ^[last gaster segment]
+Mating flights in August and September. Male **winged** with **13 antennal segments** and **spine on [pygidium](#glossary)**.
 
 \pagebreak

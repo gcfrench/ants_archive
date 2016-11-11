@@ -1,4 +1,4 @@
-# **Glossary** {-}
+# **Glossary** {-#glossary}
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig-nocap-fullwidth, fig.fullwidth = TRUE}
 knitr::include_graphics("images//glossary//glossary_side.jpg")
