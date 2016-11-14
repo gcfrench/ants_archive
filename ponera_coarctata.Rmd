@@ -16,9 +16,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of subfamily *Ponerinae* with **single thick waisted segment**, **constriction between first and second gaster segments** and **well developed sting**. Head with **minute eyes**.
+Member of subfamily *Ponerinae* with single thick waisted segment, constriction between first and second **[gaster](#glossary)** segments and well developed sting. Head with minute eyes.
 
-Unlike *Hypoponera punctatissima* **coarsely punctured** with **backward pointing projection on underside of petiole**.
+Unlike *Hypoponera punctatissima* coarsely punctured with **[subpetiolar process](#glossary)**.
 
 Sluggish, mainly subterranean predator on developmental stages of underground invertebrates. Found in or close to other ant nests, often with *Myrmecina graminicola*. Collected using mince meat baits and sieving moss.
 
@@ -32,6 +32,6 @@ knitr::include_graphics("images//Ponera_coarctata//Ponera_coarctata_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in August and September. Male **winged** with **13 antennal segments** and **spine on [pygidium](#glossary)**.
+Mating flights in August and September. Male winged with 13 **[antennal segments](#glossary)** and spine on **[pygidium](#glossary)**.
 
 \pagebreak

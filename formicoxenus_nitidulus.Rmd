@@ -17,9 +17,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-Upper surface of head and thorax smooth and shining with black gaster. **Projection on underside of post-petiole**.
+Upper surface of head and thorax smooth and shining with black **[gaster](#glossary)**. Projection on underside of **[post-petiole](#glossary)**.
 
 Individuals may obtain food from *Formica* workers and can be seen on surface of *Formica* nests in warm, dull, humid days.
 
@@ -33,6 +33,6 @@ knitr::include_graphics("images//Formicoxenus_nitidulus//Formicoxenus_nitidulus_
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating occurs on surface of *Formica* nests between July to August, with males found on the surface between August to October, especially early in the morning. Intermediate reproduction forms between the queen and worker can occur. Male similar to workers, **wingless** with **longer curved antennae**. Unlike workers queen with **12 antennal segments** and **ocelli**.
+Mating occurs on surface of *Formica* nests between July to August, with males found on the surface between August to October, especially early in the morning. Intermediate reproduction forms between the queen and worker can occur. Male similar to workers, wingless with longer curved **[antennae](#glossary)**. Unlike workers queen with 12 **[antennal segments](#glossary)** and **[ocelli](#glossary)**.
 
 \pagebreak

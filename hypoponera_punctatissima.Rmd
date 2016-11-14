@@ -24,14 +24,14 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Introduced member of subfamily *Ponerinae*  often imported with plant material. Has **single thick waisted segment**, **constriction between first and second gaster segments** and **well developed sting**. Head with **minute eyes**.
+Introduced member of subfamily *Ponerinae*  often imported with plant material. Has single thick waisted segment, constriction between first and second **[gaster](#glossary)** segments and well developed sting. Head with minute eyes.
 
-Unlike *Ponera coarcta* **finely punctured** with **no projection on underside of petiole**.
+Unlike *Ponera coarcta* finely punctured with no **[subpetiolar process](#glossary)**.
 
 Predator on small invertebrates.
 
 ## Nest
-In heated buildings, fermenting rubbish dumps and sawdust heaps with numerous workers. Pupae enclosed in cocoons.
+In heated buildings, fermenting rubbish dumps and sawdust heaps with numerous workers. Pupae enclosed in cocoons ...(@Stradling-1965; @Timmins-1993; @Donisthorpe-1946).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatissima_map.png")
@@ -40,6 +40,6 @@ knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatiss
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in August and September consisting of numerous queens. Male dimorphic with small and large individuals, **unwinged** with **12 antennal segments** and **no spine on pygidium** ^[last gaster segment]. Queen has **larger eyes** that are near the base of the mandibles.
+Mating flights in August and September consisting of numerous queens. Male dimorphic with small and large individuals, unwinged with 12 **[antennal segments](#glossary)** and no spine on **[pygidium](#glossary)**. Queen has larger eyes that are near the base of the **[mandibles](#glossary)**.
 
 \pagebreak

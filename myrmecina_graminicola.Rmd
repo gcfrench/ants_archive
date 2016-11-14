@@ -16,9 +16,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-Dark heavily sculptured species with pair of ridges on lower surface of head and **clypeus with two anterior teeth**. **Petiole quadrangular without distinct peduncle**. ^[anterior connecting part of the petiole].
+Dark heavily sculptured species with pair of ridges on lower surface of head and **[clypeus](#glossary)** with two anterior teeth. **[Petiole](#glossary)** quadrangular.
 
 Slow moving subterranean ant, curling up when disturbed, often found individually in nests of other ant species. Scavenges and preys on small invertebrates. Collected using mince meat baits under stones.
 
@@ -32,6 +32,6 @@ knitr::include_graphics("images//Myrmecina_graminicola//Myrmecina_graminicola_ma
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in August and October. Male has **dark wings**.
+Mating flights in August and October. Male has dark wings.
 
 \pagebreak
