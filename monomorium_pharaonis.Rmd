@@ -24,14 +24,14 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Introduced member of subfamily *Myrmicinae* with **two segments to waist** and **sting present**.
+Introduced member of subfamily *Myrmicinae* with two segments to waist and sting present.
 
-Dull matt head, mesosoma ^[thorax] and petiole with shiny gaster. **Propodeum rounded with no spines**.
+Dull matt head, **[mesosoma](#glossary)** and **[petiole](#glossary)** with shiny **[gaster](#glossary)**. **[Propodeum](#glossary)** rounded with no spines.
 
 Scavenger on food material, dead animals and insects, forming long foraging trails.
 
 ## Nest
-In foundations, walls and under floors of heated buildings, for example hospitals, with large colonies consisting of multiple connecting nests containing many queens and several million workers. Pupae naked. 
+In foundations, walls and under floors of heated buildings, for example hospitals, with large colonies consisting of multiple connecting nests containing many queens and several million workers. Pupae naked. ... (@Edwards-1981) 
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Monomorium_pharaonis//Monomorium_pharaonis_map.png")
