@@ -33,6 +33,6 @@ knitr::include_graphics("images//Formicoxenus_nitidulus//Formicoxenus_nitidulus_
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating occurs on surface of *Formica* nests between July to August, with males found on the surface between August to October, especially early in the morning. Intermediate reproduction forms between the queen and worker can occur. Male similar to workers, wingless with longer curved **[antennae](#glossary)**. Unlike workers queen with 12 **[antennal segments](#glossary)** and **[ocelli](#glossary)**.
+Mating occurs on surface of *Formica* nests between July to August, with males found on the surface between August to October, especially early in the morning. Intermediate reproduction forms between the queen and worker can occur. Male similar to workers, wingless with longer curved **[antennae](#glossary) but unlike workers and queen males have 12 rather than 11 **[antennal segments](#glossary)**.
 
 \pagebreak
