@@ -26,7 +26,7 @@ Member of *Myrmicinae* with **two segments to waist** and **sting present**.
 **Smaller than host** with **abundant long erect hairs**.
 
 ## Nest
-Parasitic on *Myrmica sabuleti*, with workers rarely produced. Host continues to produce workers but alates are all *Myrmica hirsuta*. Pupae naked.
+Parasitic on *Myrmica sabuleti*, with workers rarely produced. Host continues to produce workers but alates are all *Myrmica hirsuta*. Pupae naked. ... (@Pech-2013)
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Myrmica_hirsuta//Myrmica_hirsuta_map.png")
