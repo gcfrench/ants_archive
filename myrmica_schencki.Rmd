@@ -21,9 +21,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-**Antennal scape angled with ball and socket joint on different axis** and **scale like flange around the shaft close to the base**. Unlike *Myrmica lobicornis* **frons narrow, one quarter width of head**, narrower than antennae to edge of outer head as well as **petiole with well developed peduncle** and **front surface obtusely angled into top face**. **Propodeal spines long and slender**.
+**[Antennal scape](#glossary)** angled with ball and socket joint on different axis and scale like flange around the shaft close to the base. Unlike *Myrmica lobicornis* **frons**^[in glossary?] narrow, one quarter width of head, narrower than antennae to edge of outer head as well as **[petiole](#glossary)** with well developed **[peduncle](#glossary)** and front surface obtusely angled into top face. **[Propodeal](#glossary)** spines long and slender.
 
 Nocturnal predator of invertebrates and among aphids on tall herbs and shrubs.
 
@@ -37,6 +37,6 @@ knitr::include_graphics("images//Myrmica_schencki//Myrmica_schencki_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flight occurring in August. Unlike *Myrmica lobicornis* males have **short scapes**.
+Mating flight occurring in August. Unlike *Myrmica lobicornis* males have short **[scape](#glossary)**.
 
 \pagebreak

@@ -21,9 +21,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Alates
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-**Smaller than host**. Queen with **projection on underside of petiole**. Male has **twelve antennal segments**.
+Smaller than host. Queen with projection on underside of **[petiole](#glossary)**. Male has 12 **[antennal segments](#glossary)**.
 
 Flight period usually July or August.
 

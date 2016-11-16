@@ -17,9 +17,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-**Antennal scape angled with ball and socket joint on different axis** and **tooth or vertical lobe at base**. Unlike *Myrmica schencki* **frons about one third width of head**, about equal distance with antennae to outer edge of head as well as **petiole with very short peduncle** and **front surface acutely angled into top face**. **Propodeal spines short and stout**.
+**[Antennal scape](#glossary)** angled with ball and socket joint on different axis and tooth or vertical lobe at base. Unlike *Myrmica schencki* **frons**^[in glossary?] about one third width of head, about equal distance with antennae to outer edge of head as well as **[petiole](#glossary)** with very short **[peduncle](#glossary)** and front surface acutely angled into top face. **[Propodeal](#glossary)** spines short and stout.
 
 Non-aggressive ant that is unlikely to sting, mostly scavenging invertebrates.
 
@@ -33,6 +33,6 @@ knitr::include_graphics("images//Myrmica_lobicornis//Myrmica_lobicornis_map.png"
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Unlike *Myrmica schencki* males have **long scapes**.
+Unlike *Myrmica schencki* males have long **[scape](#glossary)**.
 
 \pagebreak

@@ -21,9 +21,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Alates
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-**Smaller than host** with **abundant long erect hairs**.
+Smaller than host with abundant long erect hairs.
 
 ## Nest
 Parasitic on *Myrmica sabuleti*, with workers rarely produced. Host continues to produce workers but alates are all *Myrmica hirsuta*. Pupae naked. ... (@Pech-2013)
