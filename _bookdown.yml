@@ -29,5 +29,11 @@ rmd_files: [
   "tetramorium_caespitum.Rmd",
   "anergates_atratulus.Rmd",
   "strongylognathus_testaceus.Rmd",
+  "crematogaster_scutellaris.Rmd",
+  "monomorium_floricola.Rmd",
+  "pheidole_megacephala.Rmd",
+  "tetramorium bicarinatum.Rmd",
+  "tetramorium simillimum.Rmd",
+  "ponera_testacea.Rmd",
   "references.Rmd",
 ]
