@@ -22,9 +22,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-Aggressive, stinging ant with **clypeus margin raised into a transverse ridge**, **angled corners to prothorax** and **short propodeal spines**.
+Aggressive, stinging ant with [clypeus margin](#glossary) raised into a transverse ridge, angled corners to [prothorax](#glossary) ^[not in glossary] and short [propodeal spines](#glossary).
 
 Stores grass, heather and birch seeds which are feed to the brood and tends subterranean aphid *Paracletus cimiciformis*. Forages for prey and honeydew with recruitment occurring along defined scent trails.
 

@@ -1,4 +1,3 @@
-
 # **Myrmica sabuleti** Meinert, 1861
 
 ```{marginfigure}
@@ -20,7 +19,7 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-Like *Myrmica specioides* and *Myrmica lonae* **[antennal scape](#glossary)** angled with ball and socket joint on different axis with **[scape process ](#glossary)** slightly rotated. Unlike *Myrmica scabrinodis* **[scape](#glossary)** with flange running along the shaft near the base. **[Petiole](#glossary)** front surface curved into top face.
+Like *Myrmica specioides* and *Myrmica lonae* [antennal scape](#glossary) angled with ball and socket joint on different axis with [scape process ](#glossary) slightly rotated. Unlike *Myrmica scabrinodis* [scape](#glossary) with flange running along the shaft near the base. [Petiole](#glossary) front surface curved into top face.
 
 General predator and scavenger as well as tends smalling groups of aphids especially base of stems at ground level.
 
@@ -35,6 +34,6 @@ Under stones, with few hundred workers in hot dry parts of chalk downs and sandy
 
 ## Alates
 Mating flights occur from August to September. Unlike *Myrmica scabrinodis* and *Myrmica specioides* males
-have long **[scape](#glossary)**, similar to *Myrmica lonae*.
+have long [scape](#glossary), similar to *Myrmica lonae*.
 
 \pagebreak

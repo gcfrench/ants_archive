@@ -1,4 +1,4 @@
-# **Myrmica scabrinodis**  Nylander, 1846
+# **Myrmica scabrinodis** Nylander, 1846
 
 ```{marginfigure}
 ```
@@ -27,7 +27,7 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-Like *Myrmica vandeli* **[antennal scape](#glossary)** angled with ball and socket joint on different axis with **[scape process ](#glossary)** rotated about 45 degrees though less hairy than this species. Unlike *Myrmica sabuelti* **[antennal scape](#glossary)** only has narrow longitudinal ridge or flange at most. **[Petiole](#glossary)** with horizontal plate and upper surface angled into hind face.
+Like *Myrmica vandeli* [antennal scape](#glossary) angled with ball and socket joint on different axis with [scape process ](#glossary) rotated about 45 degrees though less hairy than this species. Unlike *Myrmica sabuelti* [antennal scape](#glossary) only has narrow longitudinal ridge or flange at most. [Petiole](#glossary) with horizontal plate and upper surface angled into hind face.
 
 Steals prey, found near nests of *Lasius flavus* and other ant species.
 
@@ -41,6 +41,6 @@ knitr::include_graphics("images//Myrmica_scabrinodis//Myrmica_scabrinodis_map.pn
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in July. Unlike *Myrmica vandeli* and *Myrmica sabuelti* males have short **[scape](#glossary)** and unlike *Myrmica specioides* with long erect hairs to **[scape](#glossary)** and legs.
+Mating flights in July. Unlike *Myrmica vandeli* and *Myrmica sabuelti* males have short [scape](#glossary) and unlike *Myrmica specioides* with long erect hairs to [scape](#glossary) and legs.
 
 \pagebreak

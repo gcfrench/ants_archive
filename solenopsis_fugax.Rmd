@@ -24,7 +24,7 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-Small eyes with 10 **[antennal segments](#glossary)** and two segmented apical club. **[Propodeum](#glossary)** rounded with no spines.
+Small eyes with 10 [antennal segments](#glossary) and two segmented apical club. [Propodeum](#glossary) rounded with no spines.
 
 Subterranean aggressive ant raiding broods of larger ants, eating their larvae and pupae, as well as tending aphids.
 
@@ -38,6 +38,6 @@ knitr::include_graphics("images//Solenopsis_fugax//Solenopsis_fugax_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in September and October. Queens and males larger than workers, with queens having 11 **[antennal segments](#glossary)** and males 12 **[antennal segments](#glossary)**.
+Mating flights in September and October. Queens and males larger than workers, with queens having 11 [antennal segments](#glossary) and males 12 [antennal segments](#glossary).
 
 \pagebreak

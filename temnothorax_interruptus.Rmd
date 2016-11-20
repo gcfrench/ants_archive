@@ -19,7 +19,7 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-Unlike *Leptothorax acervorum*, 12 **[antennal segments](#glossary)** and adpressed, slanting long hairs on **[scape](#glossary)** as well as **[tibiae](#glossary)**. Unlike *Temnothorax nylanderi* **[antennal clubs](#glossary)** darkened and **[mesopropodeal furrow](#glossary)** ^[furrow between mesonotum and propodeum] absent. Unlike *Temnothorax albipennis* and *Temnothorax unifasciatus* **[propodeal spines](#glossary)** are long and curved. **[Gaster](#glossary)** with interrupted dark band.
+Unlike *Leptothorax acervorum*, 12 [antennal segments](#glossary) and adpressed, slanting long hairs on [scape](#glossary) as well as [tibiae](#glossary). Unlike *Temnothorax nylanderi* [antennal clubs](#glossary) darkened and [mesopropodeal furrow](#glossary) ^[furrow between mesonotum and propodeum] absent. Unlike *Temnothorax albipennis* and *Temnothorax unifasciatus* [propodeal spines](#glossary) are long and curved. [Gaster](#glossary) with interrupted dark band.
 
 Scavenges singularly on small invertebrates.
 
@@ -33,6 +33,6 @@ knitr::include_graphics("images//temnothorax_interruptus//temnothorax_interruptu
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flight in July to August. Unlike *Leptothorax acervorum* male with 13 **[antennal segments](#glossary)**.
+Mating flight in July to August. Unlike *Leptothorax acervorum* male with 13 [antennal segments](#glossary).
 
 \pagebreak
