@@ -21,9 +21,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-Unlike *Temnothorax* species, **antennae with eleven segments** and **erect long hairs on scape**, as well as tibiae. Antennal club, head and abdomen darkened.
+Unlike *Temnothorax* species, 11 **[anntennal segments](#glossary)** and erect long hairs on **[scape](#glossary)**, as well as **[tibiae](#glossary)**. **[Antennal club](#glossary)**, head and abdomen darkened.
 
 Small non-aggressive ant that does not produce scent to avoid detection by other ant species, using pair-running to forage for food, taking scraps of food, dead corpses and nest rubbish from *Formica aquilonia*, *Formica lugubris* and *Formica exsecta* colonies, licking honeydew from leaves and eating small arthropods.
 
@@ -37,6 +37,6 @@ knitr::include_graphics("images//leptothorax_acervorum//leptothorax_acervorum_ma
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in July. Unlike *Temnothorax* species male with **twelve antennal segments**.
+Mating flights in July. Unlike *Temnothorax* species male with 12 **[antennal segments](#glossary)**.
 
 \pagebreak

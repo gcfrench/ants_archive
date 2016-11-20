@@ -19,12 +19,12 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-Upper surface of head and thorax smooth and shining with black **[gaster](#glossary)**. Projection on underside of **[post-petiole](#glossary)**.
+Upper surface of head and thorax smooth and shining with black **[gaster](#glossary)**. Projection on underside of **[postpetiole](#glossary)**.
 
 Individuals may obtain food from *Formica* workers and can be seen on surface of *Formica* nests in warm, dull, humid days.
 
 ## Nest
-Inquiline species ^[one or more nests in *Formica rufa*, *F. lugubris* and *F. aquilonia* mounds] with nests of single queen and up to one hundred workers in sticks, tough bark or dead bracken stems. Pupae naked (@Robinson-1998; @Green-2006).
+Inquiline species ^[one or more nests in *Formica rufa*, *F. lugubris* and *F. aquilonia* mounds] with nests of single queen and up to one hundred workers in sticks, tough bark or dead bracken stems. Pupae naked. ... (@Robinson-1998; @Green-2006).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Formicoxenus_nitidulus//Formicoxenus_nitidulus_map.png")
@@ -33,6 +33,6 @@ knitr::include_graphics("images//Formicoxenus_nitidulus//Formicoxenus_nitidulus_
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating occurs on surface of *Formica* nests between July to August, with males found on the surface between August to October, especially early in the morning. Intermediate reproduction forms between the queen and worker can occur. Male similar to workers, wingless with longer curved **[antennae](#glossary) but unlike workers and queen males have 12 rather than 11 **[antennal segments](#glossary)**.
+Mating occurs on surface of *Formica* nests between July to August, with males found on the surface between August to October, especially early in the morning. Intermediate reproduction forms between the queen and worker can occur. Male similar to workers, wingless with longer curved **[antennae](#glossary)** but unlike workers and queen males have 12 rather than 11 **[antennal segments](#glossary)**.
 
 \pagebreak

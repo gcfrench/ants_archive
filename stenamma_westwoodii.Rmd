@@ -21,9 +21,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-Like *Stenamma debile* small and slender ant, slow moving with small eyes, **elongate petiole**, **small propodeal spines** and **two ridges along middle portion of clypeus** but **central smooth frontal area less than a third of the total width between antennal bases** and **legs longer and narrower** [@Stenamma-1993].
+Like *Stenamma debile* small and slender ant, slow moving with small eyes, elongate **[petiole](#glossary)**, small **[propodeal spines](#glossary)** and two ridges along middle portion of **[clypeus](#glossary)** but central smooth **[frontal area](#glossary)**^[not in glossary] less than a third of the total width between antennal bases and legs longer and narrower [@Stenamma-1993].
 
 Scavenger of small invertebrates in leaf litter.
 
@@ -37,6 +37,6 @@ knitr::include_graphics("images//Stenamma_westwoodii//Stenamma_westwoodii_map.pn
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in October. . Unlike *Stenamma debile* males have **five mandibular teeth**.
+Mating flights in October. . Unlike *Stenamma debile* males have five **[mandibular teeth](#glossary)**^[not in glossary].
 
 \pagebreak

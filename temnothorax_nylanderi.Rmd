@@ -17,9 +17,9 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with **two segments to waist** and **sting present**.
+Member of *Myrmicinae* with two segments to waist and sting present.
 
-Unlike *Leptothorax acervorum*, smaller and paler, **antennae with twelve segments** and **adpressed, slanting long hairs on scape** as well as tibiae. Unlike *Temnothorax albipennis* and *Temnothorax interruptus* **antennal clubs not darkened** and **mesopropodeal furrow** present ^[furrow between mesonotum and propodeum]. Gaster with dark band.
+Unlike *Leptothorax acervorum*, smaller and paler, 12 **[antennal segments](#glossary)** and adpressed, slanting long hairs on **[scape](#glossary)** as well as **[tibiae](#glossary)**. Unlike *Temnothorax albipennis* and *Temnothorax interruptus* **[antennal club](#glossary)** not darkened and **[mesopropodeal furrow](#glossary)** ^[furrow between mesonotum and propodeum] present. **[Gaster](#glossary)** with dark band.
 
 Small aggressive ant that does not produce scent to avoid detection by other ant species, using pair-running to forage for food along cracks in bark.
 
@@ -33,6 +33,6 @@ knitr::include_graphics("images//temnothorax_nylanderi//temnothorax_nylanderi_ma
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating flights in warm evenings in August. Reproductive forms intermediate between queens and workers can occur. Unlike *Leptothorax acervorum* male with **thirteen antennal segments**.
+Mating flights in warm evenings in August. Reproductive forms intermediate between queens and workers can occur. Unlike *Leptothorax acervorum* male with 13 **[antennal segments](#glossary)**.
 
 \pagebreak

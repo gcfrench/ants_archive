@@ -24,7 +24,7 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-Like *Myrmica ruginodis* and *Myrmica sulcinodis* **[antennal scape](#glossary)** curved with ball and socket joint on same axis but **[propodeal](#glossary)** spines are short with smooth base and upper surface of **[petiole](#glossary)** curved into hind face.
+Like *Myrmica ruginodis* and *Myrmica sulcinodis* **[antennal scape](#glossary)** curved with ball and socket joint on same axis but **[propodeal spines](#glossary)** are short with smooth base and upper surface of **[petiole](#glossary)** curved into hind face.
 
 Aggressive general scavenger and predator on invertebrates, aphid honeydew and flower nectar, often seen foraging on tall herbs.
 
@@ -38,6 +38,6 @@ knitr::include_graphics("images//Myrmica_rubra//Myrmica_rubra_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating swarms in August and September. Queens vary in size ^[microgynous or macrogynous queens]. Unlike *Myrmica ruginodis* males with long sub-erect hairs on posterior **[tibiae](#glossary)**.
+Mating swarms in August and September. Queens vary in size ^[microgynous or macrogynous queens]. Unlike *Myrmica ruginodis* males with long sub-erect hairs on **[posterior tibiae](#glossary)**.
 
 \pagebreak
