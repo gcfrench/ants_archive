@@ -31,7 +31,7 @@ Unlike *Ponera coarcta* finely punctured with no [subpetiolar process](#glossary
 Predator on small invertebrates.
 
 ## Nest
-In heated buildings, fermenting rubbish dumps and sawdust heaps with numerous workers. Pupae enclosed in cocoons ...(@Stradling-1965; @Timmins-1993; @Donisthorpe-1946).
+In heated buildings, fermenting rubbish dumps and sawdust heaps with numerous workers. Pupae enclosed in cocoons. ...(@Stradling-1965; @Timmins-1993; @Donisthorpe-1946).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatissima_map.png")

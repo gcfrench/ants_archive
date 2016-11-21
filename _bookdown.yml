@@ -1,7 +1,8 @@
 rmd_files: [
   "introduction.Rmd",
   "glossary.Rmd",
-  "ponera_coarctata.Rmd", 
+  "ponera_coarctata.Rmd",
+  "ponera_testacea.Rmd",
   "hypoponera_punctatissima.Rmd",
   "myrmecina_graminicola.Rmd",
   "formicoxenus_nitidulus.Rmd",
@@ -32,8 +33,7 @@ rmd_files: [
   "crematogaster_scutellaris.Rmd",
   "monomorium_floricola.Rmd",
   "pheidole_megacephala.Rmd",
-  "tetramorium bicarinatum.Rmd",
-  "tetramorium simillimum.Rmd",
-  "ponera_testacea.Rmd",
+  "tetramorium_bicarinatum.Rmd",
+  "tetramorium_simillimum.Rmd",
   "references.Rmd",
 ]
