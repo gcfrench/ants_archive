@@ -35,7 +35,9 @@ write_bib(c("knitr", "bookdown", "markdown", "tufte"))
 
 # **Introduction** {-}
 
-These notes on the British species of ants were made whilst reading a number of books [@Donisthorpe-1915; @Czechowski; @Pontin; @Skinner-1987; @Skinner-1996; @Collins-2016, @Collingwood-1975], pdf files [@Macdonald; @Cathrine-2010], journal articles [@Collingwood-1958; @Baroni-1976] and online resources [@AntWiki; @BWARS].
+These notes on the British species of ants were made whilst reading a number of books [@Donisthorpe-1915; @Czechowski; @Pontin; @Skinner-1987; @Skinner-1996; @Collins-2016, @Collingwood-1975], pdf files [@Macdonald; @Cathrine-2010], journal articles [@Collingwood-1958; @Baroni-1976] and online resources [@AntWiki; @BWARS; @GABI]. 
+
+Species included followed the latest checklist of British ants within the British and Irish Hymenoptera - aculates (@Else-2016).
 
 The distribution maps were created from records collated by the Bees, Wasps and Ants Recording Society and made publically available through the NBN Gateway in March 2014 [@BWARSdata; @NBNGateway]. The map images were generated using the Atlas Grade Maps facility [@NBNAtlas], under the NBN Gateway terms and conditions [@NBNTC].
 

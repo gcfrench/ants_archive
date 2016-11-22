@@ -3,15 +3,11 @@
 ```{marginfigure}
 ```
 
-```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
-knitr::include_graphics("images//labels//tramp.png")
-```
-
 ## Worker
-Member of *Myrmicinae* with two segments to waist and sting present. ... (@Attewell-2010; @Csosz-2003)
+Member of subfamily *Ponerinae* with single thick waisted segment, constriction between first and second [gaster](#glossary) segments and well developed sting. Head with minute eyes. ... (@Attewell-2010; @Csosz-2003)
 
 ## Nest
-Pupae naked.
+Pupae enclosed in cocoons.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Ponera_testacea//Ponera_testacea_map.png")
