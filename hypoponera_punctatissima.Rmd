@@ -26,12 +26,12 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Introduced member of subfamily *Ponerinae*  often imported with plant material. Has single thick waisted segment, constriction between first and second [gaster](#glossary) segments and well developed sting. Head with minute eyes.
 
-Unlike *Ponera coarctata* finely punctured with no [subpetiolar process](#glossary).
+Unlike *Ponera coarctata* finely punctured with no [subpetiolar process](#glossary). Differing from *Hypoponera ergatandria* by a number of morphometric measurements including width of head width and length of [scape](#glossary) (@Seifert-2013).
 
-Predator on small invertebrates.
+Predator on small invertebrates, especially springtails.
 
 ## Nest
-In heated buildings, fermenting rubbish dumps and sawdust heaps with numerous workers. Pupae enclosed in cocoons. ...(@Stradling-1965; @Timmins-1993; @Donisthorpe-1946).
+In heated buildings, fermenting rubbish dumps and sawdust heaps with up to 190 workers. Pupae enclosed in cocoons (@Stradling-1965; @Timmins-1993; @Donisthorpe-1946).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Hypoponera_punctatissima//Hypoponera_punctatissima_map.png")
