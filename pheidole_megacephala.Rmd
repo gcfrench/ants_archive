@@ -3,12 +3,40 @@
 ```{marginfigure}
 ```
 
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//labels//tramp.png")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Pheidole_megacephala//Pheidole_megacephala_minor_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Pheidole_megacephala//Pheidole_megacephala_major_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//Pheidole_megacephala//Pheidole_megacephala_minor_side.jpg")
+```
+```{block, type="attribution"}
+Photos (minor and major workers) by April Nobile / From www.antweb.org. Accessed 6 December 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
+```
+
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-## Nest
-Pupae naked.
+Aggressive species with two subcastes, major caste with large heart shaped head and minor caste with small ovoid head. [Mesosoma](#glossary) circular with short [propodeal spines](#glossary). [Postpetiole](#glossary) oval.
 
-## Alates
+Predator and scavenger, as well as attending aphids for honey dew.
+
+## Nest
+Large supercolonies with many queens in rotting logs, underneath rocks and pavements in relatively moist and disturbed habitats. No established colonies reported since 1970s. Pupae naked.
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Pheidole_megacephala//Pheidole_megacephala_map.png")
+```
+`r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
+`r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 \pagebreak
