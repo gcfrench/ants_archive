@@ -24,14 +24,14 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with two segments to waist and sting present.
+Introduced member of subfamily *Myrmicinae* with two segments to waist and sting present.
 
-Aggressive species with two subcastes, major caste with large heart shaped head and minor caste with small ovoid head. [Mesosoma](#glossary) circular with short [propodeal spines](#glossary). [Postpetiole](#glossary) oval.
+Aggressive species, workers dimorphic with two subcastes, major caste with large heart shaped head and minor caste with small ovoid head. [Mesosoma](#glossary) circular with short [propodeal spines](#glossary). [Postpetiole](#glossary) of minor workers ovoid to bell-shaped.
 
-Predator and scavenger, as well as attending aphids for honey dew.
+Predator, scavenger and attends Hemiptera for honey dew.
 
 ## Nest
-Large supercolonies with many queens in rotting logs, underneath rocks and pavements in relatively moist and disturbed habitats. No established colonies reported since 1970s. Pupae naked.
+In tropical and subtropical regions form large supercolonies with many queens in rotting logs, underneath rocks and pavements in relatively moist and disturbed open habitats with weedy vegetation supporting Hemiptera. Occurs indoors in Britain with no established colonies reported since 1970s. Pupae naked (@Wetterer-2012).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Pheidole_megacephala//Pheidole_megacephala_map.png")
