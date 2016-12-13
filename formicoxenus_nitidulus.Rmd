@@ -24,7 +24,7 @@ Upper surface of head and thorax smooth and shining with black [gaster](#glossar
 Individuals may obtain food from *Formica* workers and can be seen on surface of *Formica* nests in warm, dull, humid days.
 
 ## Nest
-Inquiline species ^[one or more nests in *Formica rufa*, *F. lugubris* and *F. aquilonia* mounds] with nests of single queen and up to one hundred workers in sticks, tough bark or dead bracken stems. Pupae naked. ... (@Robinson-1998; @Green-2006)
+Inquiline species ^[one or more nests in *Formica rufa*, *F. lugubris* and *F. aquilonia* mounds] with nests of single queen and up to one hundred workers in sticks, tough bark or dead bracken stems. Pupae naked (@Robinson-1998; @Green-2006).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Formicoxenus_nitidulus//Formicoxenus_nitidulus_map.png")

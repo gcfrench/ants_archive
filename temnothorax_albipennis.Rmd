@@ -19,7 +19,7 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-Unlike *Leptothorax acervorum*, 12 [antennal segments](#glossary) and adpressed, slanting long hairs on [scape](#glossary) as well as [tibiae](#glossary). Unlike *Temnothorax nylanderi* [antennal club](#glossary) darkened and [mesopropodeal furrow](#glossary) ^[furrow between mesonotum and propodeum] absent. Unlike *Temnothorax interruptus* [propodeal spines](#glossary) short and straight. [Gaster](#glossary) with poorly-defined dark markings.
+Unlike *Leptothorax acervorum*, 12 [antennal segments](#glossary) and adpressed, slanting long hairs on [scape](#glossary) as well as [tibiae](#glossary). Unlike *Temnothorax nylanderi* [antennal club](#glossary) darkened and [mesopropodeal furrow](#glossary) ^[furrow between mesonotum and propodeum] absent. Unlike *Temnothorax interruptus* [propodeal spines](#glossary) short and straight. [Gaster](#glossary) with poorly-defined dark markings (@Orledge-1998).
 
 Scavenges singularly on small invertebrates.
 

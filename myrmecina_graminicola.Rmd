@@ -23,7 +23,7 @@ Dark heavily sculptured species with pair of ridges on lower surface of head and
 Slow moving subterranean ant, curling up when disturbed, often found individually in nests of other ant species. Scavenges and preys on small invertebrates. Collected using mince meat baits under stones.
 
 ## Nest
-Under embedded stones, hollow flints, fallen wood, dead tree stumps, soil and under moss with single queen and fewer than 100 workers, as well as one or more intercastes, intemediate form between workers and queen. Nest in hottest sites which do not dry out, cliffs, pastures and dry open woodland. Clay patches on chalk downs with *Ponera coarctata*. Pupae naked.
+Under embedded stones, hollow flints, fallen wood, dead tree stumps, soil and under moss with single queen and fewer than 100 workers, as well as one or more intercastes, intemediate form between workers and queen. Nest in hottest sites which do not dry out, cliffs, pastures and dry open woodland. Clay patches on chalk downs with *Ponera coarctata*. Pupae naked (@Buschinger-2003).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Myrmecina_graminicola//Myrmecina_graminicola_map.png")
