@@ -31,7 +31,7 @@ Stores grass, heather and birch seeds which are feed to the brood and tends subt
 ## Nest
 Large colonies with normally one queen and thousands of workers under stones in coastal sand, close cropped grassland with surface stones, crumbling rocky cliff tops and inland dry heaths in hot sites. Requiring heathland management to maintain bare ground, often found along with other thermophilous species such as *Lasius alienus*. 
 
-Unlike parasite *Anergates atratulus*, larvae white with hairs on head. Also parasitised by *Strongylognathus testaceous*. Pupae naked.
+Unlike parasite *Tetramorium atratulum*, larvae white with hairs on head. Also parasitised by *Strongylognathus testaceous*. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Tetramorium_caespitum//Tetramorium_caespitum_map.png")
