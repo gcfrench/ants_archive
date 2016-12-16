@@ -35,7 +35,7 @@ write_bib(c("knitr", "bookdown", "markdown", "tufte"))
 
 # **Introduction** {-}
 
-These notes on the British species of ants were written whilst reading a number of books [@Donisthorpe-1915; @Czechowski; @Pontin; @Skinner-1987; @Skinner-1996; @Collins-2016, @Collingwood-1975], pdf files [@Macdonald; @Cathrine-2010], journal articles [@Collingwood-1958; @Baroni-1976] and online resources [@AntWiki; @BWARS; @GABI]. In addition articles relating to specific species are referenced within the relevant species pages.
+These notes on the British species of ants were written whilst reading a number of books [@Donisthorpe-1915; @Czechowski; @Pontin; @Skinner-1987; @Skinner-1996; @Collins-2016, @Collingwood-1975], pdf files [@Macdonald; @Cathrine-2010], journal articles [@Collingwood-1958; @Baroni-1976] and online resources [@GLAD; @AntWiki; @BWARS; @GABI]. In addition articles relating to specific species are referenced within the relevant species pages.
 
 Species included with these notes are taken from the latest checklist of British ants within the British and Irish Hymenoptera - aculates (@Else-2016).
 
