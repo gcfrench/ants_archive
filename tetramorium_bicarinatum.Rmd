@@ -3,11 +3,38 @@
 ```{marginfigure}
 ```
 
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//labels//tramp.png")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Tetramorium_bicarinatum//Tetramorium_bicarinatum_head.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Tetramorium_bicarinatum//Tetramorium_bicarinatum_top.jpg")
+```
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE}
+knitr::include_graphics("images//Tetramorium_bicarinatum//Tetramorium_bicarinatum_side.jpg")
+```
+
+```{block, type="attribution"}
+Photo by / From www.antweb.org. Accessed 19 December 2016.
+Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
+```
+
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
 ## Nest
 Pupae naked.
+
+```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
+knitr::include_graphics("images//Tetramorium_bicarinatum//Tetramorium_bicarinatum_map.png")
+```
+`r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
+`r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
 
