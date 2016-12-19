@@ -25,17 +25,17 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ```
 
 ## Worker
-Member of *Myrmicinae* with two segments to waist and sting present.
+Introduced member of member of *Myrmicinae* with two segments to waist and sting present.
+
+Like *Tetramorium cespitosum* and *Tetramorium simillimum* [clypeus margin](#glossary) raised into a transverse ridge but bicoloured having yellow-brown head and [mesosoma](#glossary) with darker blackish-brown [gaster](#glossary), [petiole](#glossary) rectangular with angles of upper surface at same height ^[antero- and posterodorsal angles] and [mandibles](#glossary) sculptured.
 
 ## Nest
-Pupae naked.
+Can survive in constantly heated buildings. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Tetramorium_bicarinatum//Tetramorium_bicarinatum_map.png")
 ```
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
-
-## Alates
 
 \pagebreak
