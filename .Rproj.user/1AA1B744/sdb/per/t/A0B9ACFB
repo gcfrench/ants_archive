@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "rmd_files: [\n  \"introduction.Rmd\",\n  \n  \"glossary.Rmd\",\n\n  \"ponera_coarctata.Rmd\",\n  \"ponera_testacea.Rmd\",\n  \"hypoponera_punctatissima.Rmd\",\n  \"hypoponera_ergatandria.Rmd\",\n\n  \"pheidole_megacephala.Rmd\",\n  \"crematogaster_scutellaris.Rmd\",\n  \"formicoxenus_nitidulus.Rmd\",\n  \"myrmecina_graminicola.Rmd\",\n  \"leptothorax_acervorum.Rmd\",\n  \"temnothorax_nylanderi.Rmd\",\n  \"temnothorax_albipennis.Rmd\",\n  \"temnothorax_unifasciatus.Rmd\",\n  \"temnothorax_interruptus.Rmd\",\n  \"tetramorium_caespitum.Rmd\",\n  \"tetramorium_atratulum.Rmd\",\n  \"strongylognathus_testaceus.Rmd\",\n  \"tetramorium_bicarinatum.Rmd\",\n  \"tetramorium_simillimum.Rmd\",\n  \"myrmica_rubra.Rmd\",\n  \"myrmica_ruginodis.Rmd\",\n  \"myrmica_sulcinodis.Rmd\",\n  \"myrmica_scabrinodis.Rmd\",\n  \"myrmica_vandeli.Rmd\",\n  \"myrmica_sabuleti.Rmd\",\n  \"myrmica_lonae.Rmd\",\n  \"myrmica_specioides.Rmd\",\n  \"myrmica_karavajevi.Rmd\",\n  \"myrmica_hirsuta.Rmd\",\n  \"myrmica_lobicornis.Rmd\",\n  \"myrmica_schencki.Rmd\",\n  \"monomorium_pharaonis.Rmd\",\n  \"monomorium_floricola.Rmd\",\n  \"solenopsis_fugax.Rmd\",\n  \"stenamma_debile.Rmd\",\n  \"stenamma_westwoodii.Rmd\",\n  \n  \"references.Rmd\",\n]",
+    "created" : 1481579453779.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2594697810",
+    "id" : "A0B9ACFB",
+    "lastKnownWriteTime" : 1482186178,
+    "last_content_update" : 1482186178,
+    "path" : "~/ants/_bookdown.yml",
+    "project_path" : "_bookdown.yml",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
