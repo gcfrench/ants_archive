@@ -26,7 +26,7 @@ Member of *Myrmicinae* with two segments to waist and sting present.
 
 Like *Myrmica ruginodis* and *Myrmica sulcinodis* [antennal scape](#glossary) curved with ball and socket joint on same axis but [propodeal spines](#glossary) are short with smooth base and upper surface of [petiole](#glossary) curved into hind face.
 
-Aggressive general scavenger and predator on invertebrates, aphid honeydew and flower nectar, often seen foraging on tall herbs.
+Aggressive general scavenger and predator on invertebrates, aphid honeydew and flower nectar, often seen foraging on tall herbs [@Brian-1949].
 
 ## Nest
 In soil, rotting tree stumps and under stones of damp, open non-flooding sites such as meadows and river banks, open urban, agricultural areas, woodland edges, parks and gardens. Nest contains multiple queens with hundreds of workers and may be formed by colony fission. Pupae naked.
@@ -38,6 +38,6 @@ knitr::include_graphics("images//Myrmica_rubra//Myrmica_rubra_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating swarms in August and September. Queens vary in size ^[microgynous or macrogynous queens]. Unlike *Myrmica ruginodis* males with long sub-erect hairs on [posterior tibiae](#glossary).
+Mating swarms in August and September. Queens vary in size [@Schar-2014; @Seifert-1993; @Steiner-2006; @Vepalainen-2009]. Unlike *Myrmica ruginodis* males with long sub-erect hairs on [posterior tibiae](#glossary).
 
 \pagebreak
