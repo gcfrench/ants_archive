@@ -28,16 +28,16 @@ Like *Myrmica ruginodis* and *Myrmica sulcinodis* [antennal scape](#glossary) cu
 
 Aggressive general scavenger and predator on invertebrates, aphid honeydew and flower nectar, often seen foraging on tall herbs [@Brian-1949].
 
-## Nest
-In soil, rotting tree stumps and under stones of damp, open non-flooding sites such as meadows and river banks, open urban, agricultural areas, woodland edges, parks and gardens. Nest contains multiple queens with hundreds of workers and may be formed by colony fission. Pupae naked.
-
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Myrmica_rubra//Myrmica_rubra_map.png")
 ```
 `r margin_note("Data courtesy of the NBN Gateway and provided by BWARS.")`
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
+## Nest
+In soil, rotting tree stumps and under stones of damp, open non-flooding sites such as meadows and river banks, open urban, agricultural areas, woodland edges, parks and gardens. Nest contains multiple queens with hundreds of workers and may be formed by colony fission. Pupae naked.
+
 ## Alates
-Mating swarms in August and September. Queens vary in size [@Schar-2014; @Seifert-1993; @Steiner-2006; @Vepalainen-2009]. Unlike *Myrmica ruginodis* males with long sub-erect hairs on [posterior tibiae](#glossary).
+Mating swarms in August and September. Queens vary in size ^[microgyne queens parasitic on nests with macrogyne queens, either representing the same species or *Myrmica microrubra* Seifert 1993] [@Schar-2014; @Seifert-1993; @Steiner-2006; @Vepalainen-2009]. Unlike *Myrmica ruginodis* males with long sub-erect hairs on [posterior tibiae](#glossary).
 
 \pagebreak
