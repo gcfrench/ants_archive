@@ -37,6 +37,6 @@ knitr::include_graphics("images//Myrmica_ruginodis//Myrmica_ruginodis_map.png")
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
-Mating swarms in August and September. Queens vary in size ^[Two incompletely dimorphic races with microgynous or macrogynous queens]. Unlike *Myrmica rubra* males with short adpressed hairs on [posterior tibiae](#glossary).
+Mating swarms in August and September. Queens vary in size ^[Two incompletely dimorphic races with microgynous or macrogynous queens] [@Elmes-1991]. Unlike *Myrmica rubra* males with short adpressed hairs on [posterior tibiae](#glossary).
 
 \pagebreak

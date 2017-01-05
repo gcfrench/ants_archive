@@ -28,7 +28,7 @@ Like *Myrmica rubra* and *Myrmica ruginodis* [antennal scape](#glossary) curved 
 Scavenger and predator on invertebrates.
 
 ## Nest
-In peaty humps, under stones or in clumps of sun exposed peat in sparsely vegetated wet upland or lowland heaths, intolerant of successional change to tall heather or dense *Molinia* grass. Nest often with single queen and around one hundred workers but can contain multiple queens. Pupae naked. ... (@Elmes-1987)
+In peaty humps, under stones or in clumps of sun exposed peat in sparsely vegetated wet upland or lowland heaths, intolerant of successional change to tall heather or dense *Molinia* grass. Nest often with single queen and around one hundred workers but can contain multiple queens. Pupae naked (@Elmes-1987).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Myrmica_sulcinodis//Myrmica_sulcinodis_map.png")
