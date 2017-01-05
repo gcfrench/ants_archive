@@ -31,7 +31,7 @@ Dull matt head, [mesosoma](#glossary) and [petiole](#glossary) with shiny [gaste
 Scavenger on food material, dead animals and insects, forming long foraging trails.
 
 ## Nest
-In foundations, walls and under floors of heated buildings, for example hospitals, with large colonies consisting of multiple connecting nests containing many queens and several million workers. Pupae naked. ... (@Edwards-1981) 
+In foundations, walls and under floors of heated buildings, for example hospitals, with large colonies consisting of multiple connecting nests containing many queens and several million workers. Pupae naked (@Edwards-1981).
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Monomorium_pharaonis//Monomorium_pharaonis_map.png")

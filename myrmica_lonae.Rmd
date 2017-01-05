@@ -23,7 +23,7 @@ Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution L
 ## Worker
 Member of *Myrmicinae* with two segments to waist and sting present.
 
-Like *Myrmica sabuleti* [antennal scape](#glossary) angled with ball and socket joint on different axis with [scape process ](#glossary) slightly rotated and [scape](#glossary) with flange running along the shaft near the base but flange is larger and wider.
+Like *Myrmica sabuleti* [antennal scape](#glossary) angled with ball and socket joint on different axis with [scape process ](#glossary) slightly rotated and [scape](#glossary) with flange running along the shaft near the base but flange is larger and wider [@Seifert-2000].
 
 ## Nest
 Under stones in more shady, cooler and humid areas than *Myrmica sabuleti*, with few hundred workers. Pupae naked.
