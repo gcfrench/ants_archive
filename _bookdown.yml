@@ -40,5 +40,9 @@ rmd_files: [
   "stenamma_debile.Rmd",
   "stenamma_westwoodii.Rmd",
   
+  "tapinoma_erraticum.Rmd",
+  "tapinoma_subboreale.Rmd",
+  "tapinoma_melanocephalum.Rmd",
+  
   "references.Rmd",
 ]
