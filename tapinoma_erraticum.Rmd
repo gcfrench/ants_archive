@@ -16,12 +16,15 @@ Photos by Shannon Hartman / From www.antweb.org. Accessed 6 January 2017
 Image Copyright © AntWeb 2002 - 2016. Licensing: Creative Commons Attribution License.
 ```
 
-
 ## Worker
-Member of subfamily *Dolichoderinae* with waist hidden under gaster and sting absent.
+Member of subfamily *Dolichoderinae* with single waist hidden under gaster and sting absent.
+
+Like *Tapinoma subboreale* raises gaster when disturbed producing distinctive repellent smell and has transverse posterior orifice slit but clypeus anterior margins deep and parallel sided.
+
+Agile and aggressive workers, predating on invertebrates and occasionally tending aphids.
 
 ## Nest
-Pupae naked.
+Small mounds of coarse debris, around small plants or metal object, under stones or bare ground on hot dry heathland sites, often with small raised solaria of soil and vegetation fragments. Nest contains many queens and hundreds of workers. Pupae naked.
 
 ```{r eval=TRUE, echo=FALSE, purl=FALSE, fig.margin = TRUE}
 knitr::include_graphics("images//Tapinoma_erraticum//Tapinoma_erraticum_map.png")
@@ -30,5 +33,6 @@ knitr::include_graphics("images//Tapinoma_erraticum//Tapinoma_erraticum_map.png"
 `r margin_note("Crown copyright and database rights 2011 Ordnance Survey [100017955].")`
 
 ## Alates
+Mating flights in June and July. Unlike *Tapinoma subboreale* male genitalia with wide subgenital plate and trapezoidal apical lobes.
 
 \pagebreak
